@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# market_alerts
-Repository for Django project that will by integrated with taurus_mercatus and stooq_captcha_solver.
-=======
 # Project Name
 
 > Market Alerts
@@ -32,7 +28,8 @@ Ready features:
 
 To-Do list:
 
-* Add application that will generate signals from simple strategy (e.g. Simple Moving Average Crossing) and show them on homepage of project
+* Adapt stooq_captcha_solver to work with
+* Adapt taurus_mercatus to work with
 
 ## Status
 
@@ -41,4 +38,3 @@ Project is: _in progress_
 ## Contact
 
 Created by [@heniu1985](https://github.com/heniu1985)
->>>>>>> 3ff7553 (Initial commit)
